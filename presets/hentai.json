@@ -43,7 +43,7 @@
     "checkpoint_downloads": {
         "bluePencilXL.safetensors": "https://civitai.com/api/download/models/429849?type=Model&format=SafeTensor",
         "animePencilXL.safetensors": "https://civitai.com/api/download/models/505691?type=Model&format=SafeTensor",
-        "animagineXL.safetensors": "https://civitai.com/api/download/models/403131?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "animagineXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/animagineXL.safetensors?download=true"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
