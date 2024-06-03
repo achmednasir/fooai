@@ -1,5 +1,5 @@
 {
-    "default_model": "bluePencilXL.safetensors",
+    "default_model": "animePencilXL.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -41,8 +41,7 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "bluePencilXL.safetensors": "https://civitai.com/api/download/models/429849?type=Model&format=SafeTensor",
-        "animePencilXL.safetensors": "https://civitai.com/api/download/models/505691?type=Model&format=SafeTensor",
+        "animePencilXL.safetensors": "https://huggingface.co/bluepen5805/anima_pencil-XL/resolve/main/anima_pencil-XL-v4.0.0.safetensors?download=true",
         "animagineXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/animagineXL.safetensors?download=true"
     },
     "embeddings_downloads": {
