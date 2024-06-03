@@ -4,22 +4,27 @@
     "default_refiner_switch": 0.4,
     "default_loras": [
         [
+            true,
             "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
             0.25
         ],
         [
-            "AddDetailXL.safetensors",
+            true,
+            "AddDetail.safetensors",
             1.5
         ],
         [
+            true,
+            "Hands.safetensors",
+            1.0
+        ],
+        [
+            true,
             "None",
             1.0
         ],
         [
-            "None",
-            1.0
-        ],
-        [
+            true,
             "None",
             1.0
         ]
@@ -40,20 +45,19 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "juggernautXL.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true"
+        "juggernautXL.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-        "AddDetail.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/detail.safetensors?download=true",
-        "PerfectHands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand.safetensors?download=true",
-        "ZoomSlider.safetensors": "https://civitai.com/api/download/models/240274?type=Model&format=SafeTensor",
-        "FixHands.safetensors": "https://civitai.com/api/download/models/268840",
-        "Braless.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Brales.safetensors?download=true",
-        "YogaPants.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/YogaPants.safetensors?download=true",
-        "HandsBehindBack.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/HandsBehindBack.safetensors?download=true",
-        "Tanlines.safetensors": "https://civitai.com/api/download/models/268140?type=Model&format=SafeTensor",
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors?download=true",
+        "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "ExtremeDetail.safetensors": "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor",
+        "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
+        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor",
         "GodPussy.safetensors": "https://civitai.com/api/download/models/292193?type=Model&format=SafeTensor",
-        "Pov.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
+        "Braless.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Brales.safetensors?download=true",
+        "Pov.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor",
+        "FlatChested.safetensors": "https://civitai.com/api/download/models/445135?type=Model&format=SafeTensor",
+        "YogaPants.safetensors": "https://civitai.com/api/download/models/248345?type=Model&format=SafeTensor",
     }
 }
