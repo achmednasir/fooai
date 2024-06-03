@@ -51,7 +51,7 @@
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors?download=true",
         "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
-        "ExtremeDetail.safetensors": "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor",
+        "ExtremeDetail.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExtremeDetails.safetensors?download=true",
         "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
         "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor"
     }
