@@ -41,17 +41,17 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "bluePencilXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/blue4.safetensors?download=true",
-        "animePencilXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/anima1.5.safetensors?download=true"
+        "bluePencilXL.safetensors": "https://civitai.com/api/download/models/429849?type=Model&format=SafeTensor",
+        "animePencilXL.safetensors": "https://civitai.com/api/download/models/505691?type=Model&format=SafeTensor"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "AddDetail.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/detail.safetensors?download=true",
-        "PerfectHands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand.safetensors?download=true",
-        "ZoomSlider.safetensors": "https://civitai.com/api/download/models/240274?type=Model&format=SafeTensor",
-        "FixHands.safetensors": "https://civitai.com/api/download/models/268840"
+        "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "ExtremeDetail.safetensors": "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor",
+        "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
+        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor",
     }
 }
