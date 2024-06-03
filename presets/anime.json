@@ -53,6 +53,6 @@
         "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
         "ExtremeDetail.safetensors": "https://civitai.com/api/download/models/383563?type=Model&format=SafeTensor",
         "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
-        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor",
+        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor"
     }
 }
