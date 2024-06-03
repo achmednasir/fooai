@@ -58,6 +58,6 @@
         "Braless.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Brales.safetensors?download=true",
         "Pov.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor",
         "FlatChested.safetensors": "https://civitai.com/api/download/models/445135?type=Model&format=SafeTensor",
-        "YogaPants.safetensors": "https://civitai.com/api/download/models/248345?type=Model&format=SafeTensor",
+        "YogaPants.safetensors": "https://civitai.com/api/download/models/248345?type=Model&format=SafeTensor"
     }
 }
