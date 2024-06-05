@@ -11,20 +11,20 @@
         [
             true,
             "AddDetail.safetensors",
-            1.5
+            1.0
         ],
         [
-            true,
+            false,
             "Hands.safetensors",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ],
         [
-            true,
+            false,
             "None",
             1.0
         ]
@@ -53,6 +53,7 @@
         "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
         "ExtremeDetail.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExtremeDetails.safetensors?download=true",
         "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
-        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor"
+        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor",
+        "Zoom.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Zoom.safetensors?download=true"
     }
 }
