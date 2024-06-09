@@ -61,6 +61,8 @@
         "SemiRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SemiRealism.safetensors?download=true",
         "ExpressiveHentai.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExpressiveHentai.safetensors?download=true",
         "PonyDetailed.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyDetailed.safetensors?download=true",
+        "PonyDetailedPainting.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyDetailedPainting.safetensors?download=true",
+        "PonyOiledSkin.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyOiledSkin.safetensors?download=true",
         "SkyrimLandscapes.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SkyrimLandscapes.safetensors?download=true"
     }
 }
