@@ -1,5 +1,5 @@
 {
-    "default_model": "PonyFaetality.safetensors",
+    "default_model": "animePencilXL.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -40,7 +40,6 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "PonyFaetality.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyFaetality.safetensors?download=true",
         "animePencilXL.safetensors": "https://huggingface.co/bluepen5805/anima_pencil-XL/resolve/main/anima_pencil-XL-v4.0.0.safetensors?download=true",
         "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=true"   
     },
