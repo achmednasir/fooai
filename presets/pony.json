@@ -4,11 +4,11 @@
     "default_refiner_switch": 0.667,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.5
+            "none",
+            1.0
         ],
         [
-            "AddDetailXL.safetensors",
+            "none",
             1.0
         ],
         [
