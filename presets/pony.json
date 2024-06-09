@@ -41,7 +41,7 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "pony.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "pony.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/pony.safetensors?download=true"
     },
     "embeddings_downloads": { },
     "lora_downloads": {
