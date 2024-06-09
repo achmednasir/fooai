@@ -1,5 +1,5 @@
 {
-    "default_model": "pony.safetensors",
+    "default_model": "PonyFaetality.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -34,14 +34,13 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Masterpiece",
-        "SAI Anime",
         "SAI Digital Art",
         "SAI Enhance",
         "SAI Fantasy Art"
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "pony.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/pony.safetensors?download=true"
+        "PonyFaetality.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyFaetality.safetensors?download=true"
     },
     "embeddings_downloads": { },
     "lora_downloads": {
@@ -61,6 +60,7 @@
         "PonyDetailed.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyDetailed.safetensors?download=true",
         "PonyDetailedPainting.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyDetailedPainting.safetensors?download=true",
         "PonyOiledSkin.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyOiledSkin.safetensors?download=true",
+        "PonyRoundBreasts.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRoundBreasts.safetensors?download=true"
         "SkyrimLandscapes.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SkyrimLandscapes.safetensors?download=true"
     }
 }
