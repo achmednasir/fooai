@@ -1,5 +1,5 @@
 {
-    "default_model": "PonyRealism.safetensors",
+    "default_model": "juggernautXL.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -36,12 +36,14 @@
         "Fooocus Masterpiece",
         "SAI Digital Art",
         "SAI Enhance",
-        "SAI Fantasy Art"
+        "SAI Fantasy Art",
+        "Fooocus Negative",
+        "Fooocus Enhance",
+        "Fooocus Sharp"
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "juggernautXL.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true",
-        "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=true"   
+        "juggernautXL.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true"
     },
     "embeddings_downloads": { },
     "lora_downloads": {
