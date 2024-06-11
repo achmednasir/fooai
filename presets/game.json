@@ -62,7 +62,7 @@
         "PonyOiledSkin.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyOiledSkin.safetensors?download=true",
         "PonyRoundBreasts.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRoundBreasts.safetensors?download=true",
         "SkyrimLandscapes.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SkyrimLandscapes.safetensors?download=true",
-        "FantasyWizard.safetensors": "https://civitai.com/api/download/models/407143",
-        "FantasyKnight.safetensors": "https://civitai.com/api/download/models/391327"
+        "FantasyKnight.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyKnight.safetensors?download=true",
+        "FantasyWizard.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyWizard.safetensors?download=true"
     }
 }
