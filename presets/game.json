@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL.safetensors",
+    "default_model": "PonyFaetality.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -43,7 +43,8 @@
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "juggernautXL.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true"
+        "PonyFaetality.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyFaetality.safetensors?download=true",
+        "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=true"
     },
     "embeddings_downloads": { },
     "lora_downloads": {
@@ -63,6 +64,8 @@
         "PonyRoundBreasts.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRoundBreasts.safetensors?download=true",
         "SkyrimLandscapes.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SkyrimLandscapes.safetensors?download=true",
         "FantasyKnight.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyKnight.safetensors?download=true",
-        "FantasyWizard.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyWizard.safetensors?download=true"
+        "FantasyWizard.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyWizard.safetensors?download=true",
+        "PonyAestheticSceney.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyAestheticSceney.safetensors?download=true",
+        "PonyGreenScene.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyGreenScene.safetensors?download=true"
     }
 }
