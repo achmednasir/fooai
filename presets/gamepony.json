@@ -34,11 +34,7 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Masterpiece",
-        "SAI Digital Art",
-        "SAI Enhance",
-        "SAI Fantasy Art",
-        "Fooocus Negative",
-        "Fooocus Sharp"
+        "SAI Enhance"
     ],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
@@ -52,6 +48,7 @@
         "PonyOiledSkin.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyOiledSkin.safetensors?download=true",
         "PonyRoundBreasts.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRoundBreasts.safetensors?download=true",
         "BBC.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/BBC.safetensors?download=true",
-        "skinny.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/skinny.safetensors?download=true"
+        "skinny.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/skinny.safetensors?download=true",
+        "Animated.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Animated.safetensors?download=true"
     }
 }
