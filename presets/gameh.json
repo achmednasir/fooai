@@ -31,13 +31,7 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "low quality, watermark, unrealistic, saturated, high contrast, (blur, blurry, grainy), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Masterpiece",
-        "SAI Digital Art",
-        "SAI Enhance",
-        "SAI Fantasy Art"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
         "animagineXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/animagineXL.safetensors?download=true"
