@@ -39,6 +39,7 @@
     "embeddings_downloads": { },
     "lora_downloads": {
         "SemiRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SemiRealism.safetensors?download=true",
-        "ExpressiveHentai.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExpressiveHentai.safetensors?download=true"
+        "ExpressiveHentai.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExpressiveHentai.safetensors?download=true",
+        "Animated.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Animated.safetensors?download=true"
     }
 }
