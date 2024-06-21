@@ -31,38 +31,17 @@
     "default_performance": "Speed",
     "default_prompt": "score_9, score_8_up, score_7_up,score_6_up, ",
     "default_prompt_negative": "Score_5, score_4, Score_3, low quality, watermark, unrealistic, saturated, high contrast, (blur, blurry, grainy), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Masterpiece",
-        "SAI Digital Art",
-        "SAI Enhance",
-        "SAI Fantasy Art",
-        "Fooocus Negative",
-        "Fooocus Sharp"
-    ],
+    "default_styles": [],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "PonyFaetality.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyFaetality.safetensors?download=true",
+        "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=truee",
         "dynavisionXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/dynavisionXL.safetensors?download=true"
     },
     "embeddings_downloads": { },
     "lora_downloads": {
-        "AddDetail.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
-        "ExtremeDetail.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExtremeDetails.safetensors?download=true",
-        "Hands.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/hand4.safetensors?download=true",
-        "FixHands.safetensors": "https://civitai.com/api/download/models/268840?type=Model&format=SafeTensor",
-        "Zoom.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Zoom.safetensors?download=true",
-        "GodPussy.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/GodP.safetensors?download=true",
-        "Braless.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Brales.safetensors?download=true",
-        "Pov.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/POV.safetensors?download=true",
-        "FlatChested.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FlatChested.safetensors?download=true",
         "SemiRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/SemiRealism.safetensors?download=true",
         "ExpressiveHentai.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/ExpressiveHentai.safetensors?download=true",
         "PonyDetailed.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyDetailed.safetensors?download=true",
-        "PonyOiledSkin.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyOiledSkin.safetensors?download=true",
-        "PonyRoundBreasts.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRoundBreasts.safetensors?download=true",
-        "FantasyKnight.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyKnight.safetensors?download=true",
-        "FantasyWizard.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/FantasyWizard.safetensors?download=true",
-        "PonyAestheticSceney.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyAestheticSceney.safetensors?download=true"
+        "Animated.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/Animated.safetensors?download=true"
     }
 }
