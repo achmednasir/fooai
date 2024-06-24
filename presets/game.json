@@ -29,8 +29,8 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "score_9, score_8_up, score_7_up,score_6_up, ",
-    "default_prompt_negative": "Score_5, score_4, Score_3, low quality, watermark, unrealistic, saturated, high contrast, (blur, blurry, grainy), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)",
+    "default_prompt": "score_9, score_8_up, score_7_up, BREAK, ",
+    "default_prompt_negative": "score_4, score_5, score_6, low quality, watermark, unrealistic, saturated, high contrast, (blur, blurry, grainy), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)",
     "default_styles": [],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
