@@ -34,7 +34,7 @@
     "default_styles": [],
     "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=truee",
+        "PonyRealism.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/PonyRealism.safetensors?download=true",
         "dynavisionXL.safetensors": "https://huggingface.co/Samirjahri/jug/resolve/main/dynavisionXL.safetensors?download=true"
     },
     "embeddings_downloads": { },
