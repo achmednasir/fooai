@@ -1,0 +1,39 @@
+{
+    "default_model": "",
+    "default_refiner": "",
+    "default_refiner_switch": 0.667,
+    "default_loras": [
+        [
+            "none",
+            1.0
+        ],
+        [
+            "none",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "score_9, score_8_up, score_7_up, BREAK, ",
+    "default_prompt_negative": "score_4, score_5, score_6, low quality, watermark, unrealistic, saturated, high contrast, (blur, blurry, grainy), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)",
+    "default_styles": [],
+    "default_aspect_ratio": "1024*1024",
+    "checkpoint_downloads": { },
+    "embeddings_downloads": { },
+    "lora_downloads": {}
+}
