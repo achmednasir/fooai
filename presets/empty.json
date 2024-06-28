@@ -1,5 +1,5 @@
 {
-    "default_model": "",
+    "default_model": "empty.safetensor",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
